@@ -1,24 +1,24 @@
-# 👋 Hola, soy Dan Nuno (@SoyDanMx)
+# 👋 Hi, I'm Dan Nuno (@SoyDanMx)
 
-## 🚀 Desarrollador Full Stack | Especialista en Next.js y TypeScript
+## 🚀 Full Stack Developer | Next.js & TypeScript Specialist
 
-Desarrollador apasionado por crear soluciones tecnológicas innovadoras, especialmente en marketplaces y aplicaciones web modernas.
+I am a passionate developer dedicated to building innovative tech solutions, with a strong focus on digital marketplaces and modern web applications.
 
-## 💼 Proyectos Destacados
+## 💼 Featured Projects
 
-### 🛠️ Sumee App - Marketplace de Herramientas y Servicios Técnicos
-**Repositorio:** [Sumeeapp-B](https://github.com/SoyDanMx/Sumeeapp-B)
+### 🛠️ Sumee App - Technical Services & Tools Marketplace
+**Repository:** [Sumeeapp-B](https://github.com/SoyDanMx/Sumeeapp-B)
 
-Marketplace profesional que conecta técnicos especializados con clientes, integrando:
-- 🛒 Catálogo completo de productos técnicos
-- 🤖 Asistente de IA con Google Gemini
-- 📊 Sistema de gestión de leads automatizado
-- 💰 Integración con Syscom API
-- 🐳 Docker para desarrollo y producción
+A professional marketplace bridging the gap between specialized technicians and clients. Key features include:
+- 🛒 **Comprehensive Catalog:** Full integration of technical products.
+- 🤖 **AI Assistant:** Powered by Google Gemini for enhanced user support.
+- 📊 **Lead Management:** Automated systems to track and manage potential clients.
+- 💰 **API Integration:** Seamless connection with the Syscom API.
+- 🐳 **DevOps:** Dockerized environment for consistent development and production.
 
 **Stack:** Next.js 15, TypeScript, Supabase, Google Gemini AI, Docker
 
-## 🛠️ Tecnologías
+## 🛠️ Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-15.5.7-black?logo=next.js)
@@ -31,52 +31,47 @@ Marketplace profesional que conecta técnicos especializados con clientes, integ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
 ![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js)
 
-### IA y Herramientas
+### AI & Tools
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.0-4285F4?logo=google)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Git](https://img.shields.io/badge/Git-Fluent-orange?logo=git)
 
-## 📊 Estadísticas de GitHub
-
+## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoyDanMx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyDanMx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-## 🎯 Intereses
+## 🎯 Interests
 
-- 🚀 Desarrollo de aplicaciones web modernas
-- 🤖 Integración de IA en aplicaciones
-- 🐳 DevOps y containerización
-- 📱 Desarrollo full stack
-- 🎨 UX/UI Design
-- 🔒 Seguridad en aplicaciones web
+- 🚀 Modern Web App Development
+- 🤖 AI Integration & LLMs
+- 🐳 DevOps & Containerization
+- 📱 Full Stack Architecture
+- 🎨 UX/UI Design Principles
+- 🔒 Web Application Security
 
-## 📚 Aprendiendo
+## 📚 Currently Learning
 
-- Arquitectura de microservicios
-- Machine Learning aplicado
-- Optimización de performance
-- Testing automatizado
+- Microservices Architecture
+- Applied Machine Learning
+- Performance Optimization
+- Automated Testing Frameworks
 
-## 🤝 Colaboración
+## 🤝 Collaboration
 
-Estoy abierto a colaborar en proyectos interesantes, especialmente:
-- Marketplaces y e-commerce
-- Aplicaciones con IA integrada
-- Proyectos open source
-- Startups tecnológicas
+I'm always open to discussing new projects, particularly in:
+- Marketplaces & E-commerce
+- AI-Powered Applications
+- Open Source Software
+- Tech Startups
 
-## 📫 Contacto
+## 📫 Contact Me
 
 - **GitHub:** [@SoyDanMx](https://github.com/SoyDanMx)
-- **Email:** [Tu email aquí]
-- **LinkedIn:** [Tu LinkedIn aquí]
+- **Email:** proyectos@seguridad-avanzada.com
+- **LinkedIn:** [Dan Nuno](https://www.linkedin.com/in/daninuno/)
 
-## 💡 Frase Favorita
+## 💡 Favorite Quote
 
-> "El código es poesía escrita en lógica"
-
----
-
-⭐ Si te gusta lo que hago, considera darle una estrella a mis repositorios!
-
+> "Never stop dreaming."
