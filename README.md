@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dan Nuno (@SoyDanMx)
 
-## 🚀 Full Stack Developer | Next.js & TypeScript Specialist
+## 🚀 Jr Developer | Next.js & TypeScript Specialist
 
 I am a passionate developer dedicated to building innovative tech solutions, with a strong focus on digital marketplaces and modern web applications.
 
