@@ -69,9 +69,9 @@ I'm always open to discussing new projects, particularly in:
 ## 📫 Contact Me
 
 - **GitHub:** [@SoyDanMx](https://github.com/SoyDanMx)
-- **Email:** proyectos@seguridad-avanzada.com
-- **LinkedIn:** [Dan Nuno](https://www.linkedin.com/in/daninuno/)
+- **Email:** contact@nuo-networks.com
+- **LinkedIn:** [Dan Nuno](https://www.linkedin.com/in/danuno/)
 
 ## 💡 Favorite Quote
 
-> "Never stop dreaming."
+> "Never stop dreaming, Never Stop Learning"
