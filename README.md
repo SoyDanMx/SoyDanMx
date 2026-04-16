@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Dan Nuno (@SoyDanMx)
 
-## 🚀 Jr Developer | Next.js & TypeScript Specialist
+## Software Developer | Next.js & TypeScript 
 
 I am a passionate developer dedicated to building innovative tech solutions, with a strong focus on digital marketplaces and modern web applications.
 
 ## 💼 Featured Projects
 
-### 🛠️ Sumee App - Technical Services & Tools Marketplace
+### 🛠️ Tulbox.Pro ( formerly Sumee App ) - Technical Services & Tools Marketplace
 **Repository:** [Sumeeapp-B](https://github.com/SoyDanMx/Sumeeapp-B)
 
 A professional marketplace bridging the gap between specialized technicians and clients. Key features include:
